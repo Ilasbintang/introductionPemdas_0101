@@ -1,15 +1,9 @@
 #include <iostream>
 using namespace std;
 
-//variabel global
-int sks;
-
 int main(){
-    //variabel lokal
-    int umur;
-    umur = 20;
+    int p, l, luas;
 
-    cout << "Hallo Mas Abra" << endl;
-    cout << 10 << endl;
-    cout << umur;
+    //langkah2
+    
 }
